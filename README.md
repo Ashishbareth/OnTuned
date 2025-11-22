@@ -34,7 +34,7 @@ Create your own mood-based chips, attach song URLs, and share your vibe anonymou
 - **JavaScript (ES6+)**
 - **React.js**
 - **Next.js**
-- **Node.js** (optional future use)
+- **Node.js** 
 
 ---
 
