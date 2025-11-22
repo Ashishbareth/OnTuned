@@ -1,3 +1,69 @@
+# OnTuned
+
+OnTuned is a simple and fun platform where you can link your favourite music using **keywords**.  
+Create your own mood-based chips, attach song URLs, and share your vibe anonymously.
+
+---
+
+## ✨ Features
+
+- 🔗 **Attach Songs with Keywords**  
+  Add any music URL (YT/Spotify etc.) and bind it to a keyword.
+
+- 🏷️ **Create Your Own Sections**  
+  Build a personalized collection of music chips based on your moods.
+
+- 🕶️ **Anonymous Sharing**  
+  Share music without revealing your identity.
+
+- 🎯 **Default Keywords Included**  
+  Mood-based tags are preloaded for quick access.
+
+- ⚡ **Instant Navigation**  
+  Clicking any keyword jumps directly to your linked song.
+
+- 🌐 **Runs Easily with Live Server**  
+  No backend — just open and enjoy.
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **React.js**
+- **Next.js**
+- **Node.js** (optional future use)
+
+---
+
+## 🚀 How to Run OnTuned
+
+1. Download or clone the project.
+2. Open the folder in your editor.
+3. Run using **Live Server**.
+4.  
+   - Click any **default keyword chip** to open its linked track.  
+   - Add your own **song URL + keyword** to create new chips.  
+   - Your personal “section” displays all your added chips together.
+
+---
+
+## 📸 Screenshot
+
+![OnTuned Screenshot](./src/app/images/Chip.png)
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
